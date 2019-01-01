@@ -1,5 +1,6 @@
 backend:
-  name: projectngo-repo
+  name: github
+  repo: https://github.com/DA717/projectngo
 
 media_folder: static/assets
 public_folder: assets
